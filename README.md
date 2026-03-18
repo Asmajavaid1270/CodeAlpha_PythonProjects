@@ -69,17 +69,21 @@ CodeAlpha_PythonProjects/
 └── .gitignore
 
 📝 Author
-**[Asma Javaid]**
+
+**Asma Javaid**
 
 Computer Science Student | Python Developer
 
 [https://www.linkedin.com/in/asma-javaid-34a918385?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 📅 Submission Date
+
 April 2026
 
 🎯 Internship
+
 This project is submitted for CodeAlpha Python Programming Internship
 
 📄 License
+
 This project is open source and available for educational purposes.
