@@ -74,7 +74,7 @@ CodeAlpha_PythonProjects/
 
 Computer Science Student | Python Developer
 
-[https://www.linkedin.com/in/asma-javaid-34a918385?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+https://www.linkedin.com/in/asma-javaid-34a918385?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📅 Submission Date
 
