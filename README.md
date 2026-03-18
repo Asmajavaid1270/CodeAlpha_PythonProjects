@@ -39,25 +39,41 @@ python src/chatbot.py
 
 📁 Project Structure:
 CodeAlpha_PythonProjects/
+
 │
+
 ├── src/
+
 │   ├── __init__.py
+
 │   ├── hangman.py
+
 │   ├── stock_tracker.py
+
 │   └── chatbot.py
+
 │
+
 ├── data/
+
 │   └── portfolio.json (auto-generated)
+
 │
+
 ├── main.py
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 📝 Author
 **[Asma Javaid]**
+
 Computer Science Student | Python Developer
-[]
+
+[https://www.linkedin.com/in/asma-javaid-34a918385?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 📅 Submission Date
 April 2026
