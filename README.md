@@ -1,6 +1,5 @@
-# CodeAlpha Python Internship Projects
+# CodeAlpha Python Projects
 
-Welcome to my Python Projects repository submitted for **CodeAlpha Internship**.  
 This repository contains three fundamental Python projects demonstrating logic, file handling, and user interaction.
 
 ## 📂 Projects Included
